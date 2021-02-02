@@ -1,0 +1,17 @@
+Pizza:
+	diverticena: 1
+	detox: 0
+
+Crema:
+	variaciones: Calabacín, Almendras, Verduras
+	diverticena: 0
+	detox: 1
+
+Sandwhich:
+	diverticena: 1
+	detox: 1
+
+Tortilla:
+	diverticena: 0
+	detox: 1
+	variaciones: Revuelto Setas, Tortilla patatas, Tortilla wrap
