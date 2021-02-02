@@ -4,6 +4,7 @@ Small project for learning haskell.
 This project aims to generate a random meal, for my flatmates and myself to dinner each day. The plan is to increase the difficulty of the tools used as I learn more haskell. Maybe the use of tools became overengineering. If that happens it would mean that I have learned a lot :).
 
 pd: this project will forever be in alpha probably.
+pd2: If you want to do this, maybe golang or python are more useful for this purpose. Nonetheless, you won't learn haskell.
 
 ## Version 1
 
@@ -33,9 +34,10 @@ Tortilla:
   variaciones: Revuelto Setas, Tortilla patatas, Tortilla wrap
 ```
 
-Then we will try to develop an interface 
+
 
 ## Further Development ideas
 
+- Nice interface.
 - Be able to run this in a Google-Home-like device or telegram bot.
 - Choose by ingredient.
