@@ -15,22 +15,22 @@ Example file:
 
 ```yml
 Pizza:
-	diverticena: 1
-	detox: 0
+  diverticena: 1
+  detox: 0
 
 Crema:
-	variaciones: Calabacín, Almendras, Verduras
-	diverticena: 0
-	detox: 1
+  variaciones: Calabacín, Almendras, Verduras
+  diverticena: 0
+  detox: 1
 
 Sandwhich:
-	diverticena: 1
-	detox: 1
+  diverticena: 1
+  detox: 1
 
 Tortilla:
-	diverticena: 0
-	detox: 1
-	variaciones: Revuelto Setas, Tortilla patatas, Tortilla wrap
+  diverticena: 0
+  detox: 1
+  variaciones: Revuelto Setas, Tortilla patatas, Tortilla wrap
 ```
 
 Then we will try to develop an interface 
